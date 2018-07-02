@@ -1,0 +1,742 @@
+# Spanish translations for PACKAGE package.
+# Copyright (C) 2018 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# "" <chyvan24@yvan-laptop.localdomain>, 2018.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-01-27 22:40+0100\n"
+"PO-Revision-Date: 2018-01-27 22:46+0100\n"
+"Last-Translator: \"\" <chyvan24@yvan-laptop.localdomain>\n"
+"Language-Team: Spanish\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: index.php:6
+msgid "Accueil"
+msgstr ""
+
+#: index.php:15
+msgid "Bienvenue"
+msgstr ""
+
+#: index.php:16
+msgid ""
+"Vous êtes sur un site de forum/traduction. Pour plus de fonctionnalités \n"
+"                            veuillez vous connecter ou vous inscrire"
+msgstr ""
+
+#: index.php:18
+msgid ""
+"Ce site vous permet (dès à présent !) de faire une recherche de traduction "
+"via l'onglet Traduction. Cependant vous serez limité à une recherche toute "
+"les 10 minutes."
+msgstr ""
+
+#: index.php:20
+msgid ""
+"Connectez vous pour profiter d'un nombre de recherche supérieur à 9000 ! Les "
+"administrateurs peuvent élever vos privilèges, \n"
+"                     vous pourriez devenir un membre premium et gagner un "
+"suivi à vos demandes de traduction, \n"
+"                     un traducteur et à votre venir en aide aux autres, ou ; "
+"même, un administrateur à votre tour pour rajouter de nouvelles langues et "
+"gérer les membres du site !"
+msgstr ""
+
+#: index.php:26
+msgid "Bienvenue   "
+msgstr ""
+
+#: index.php:27
+msgid "Merci de votre confiance et amusez vous bien !"
+msgstr ""
+
+#: index.php:28
+msgid "Votre Statut sur notre site est actuellement :"
+msgstr ""
+
+#: controlleur/administration.php:15
+msgid "Administration"
+msgstr ""
+
+#: controlleur/ajouterLangue.php:10
+msgid "ajoutLangue"
+msgstr ""
+
+#: controlleur/CondiG.php:9
+msgid "Condition général"
+msgstr ""
+
+#: controlleur/connexion.php:37 view/VueMenuBarre.php:35
+#: view/Connexion/VueFormulaire.php:8
+#: view/DemandeTrad/VueFormulaireDemande.php:6
+msgid "Connexion"
+msgstr ""
+
+#: controlleur/demandeTrad.php:11 view/VueTraduction.php:10
+#: view/VueTraduction.php:28
+msgid "Demande de traduction"
+msgstr ""
+
+#: controlleur/FinCo.php:9
+msgid "Fin connexion"
+msgstr ""
+
+#: controlleur/gererDemandeTrad.php:11
+msgid "Gerer traduction"
+msgstr ""
+
+#: controlleur/inscriptionBD.php:18 view/VueMenuBarre.php:36
+msgid "Inscription"
+msgstr ""
+
+#: controlleur/monCompte.php:12 view/VueMenuBarre.php:41
+#: view/VueMenuBarre.php:47 view/VueMonCompte.php:13
+msgid "Mon compte"
+msgstr ""
+
+#: controlleur/motDePasseOublier.php:15
+msgid "Mot de passe oublié"
+msgstr ""
+
+#: controlleur/traduction.php:9
+msgid "Traduction"
+msgstr ""
+
+#: controlleur/updateCompte.php:11
+msgid "changement email"
+msgstr ""
+
+#: controlleur/updateMDP.php:12
+msgid "changement MDP"
+msgstr ""
+
+#: view/VueAdministration.php:5 view/VueGererDemandeTrad.php:5
+msgid "Vous n'avez pas les droits pour accéder a cette partie"
+msgstr ""
+
+#: view/VueAdministration.php:12
+msgid "Changer en"
+msgstr ""
+
+#: view/VueAdministration.php:15
+msgid "Standard"
+msgstr ""
+
+#: view/VueAdministration.php:16
+msgid "Premium"
+msgstr ""
+
+#: view/VueAdministration.php:17
+msgid "Traducteur"
+msgstr ""
+
+#: view/VueAdministration.php:18
+msgid "Administrateur"
+msgstr ""
+
+#: view/VueAjouterLangue.php:11
+msgid "Vous n'avez pas les droits pour accéder à cette partie"
+msgstr ""
+
+#: view/VueAjouterLangue.php:18
+msgid "Ajouter langue de traduction"
+msgstr ""
+
+#: view/VueAjouterLangue.php:21
+msgid ""
+"Veuillez renseigner les deux premières lettres de la langue que vous "
+"souhaitez ajouter (EX : ES pour espagnol)"
+msgstr ""
+
+#: view/VueAjouterLangue.php:24
+msgid "Ajouter"
+msgstr ""
+
+#: view/VueCondiGe.php:2
+msgid "Conditions générales d'utilisation du site projetphp2018.alwaysdata.net"
+msgstr ""
+
+#: view/VueCondiGe.php:6
+msgid "ARTICLE 1 : Objet"
+msgstr ""
+
+#: view/VueCondiGe.php:8
+msgid ""
+"Les présentes « conditions générales d'utilisation » ont pour objet "
+"l'encadrement juridique des modalités de mise à disposition des services du "
+"site \"La traduc' pour les trouduc'\" et leur utilisation par « "
+"l'Utilisateur ».\n"
+"\n"
+"        Les conditions générales d'utilisation doivent être acceptées par "
+"tout Utilisateur souhaitant accéder au site. Elles constituent le contrat "
+"entre le site et l'Utilisateur. L'accès au site par l'Utilisateur signifie "
+"son acceptation des présentes conditions générales d'utilisation."
+msgstr ""
+
+#: view/VueCondiGe.php:12 view/VueCondiGe.php:24
+msgid "Éventuellement :"
+msgstr ""
+
+#: view/VueCondiGe.php:14
+msgid ""
+"En cas de non-acceptation des conditions générales d'utilisation stipulées "
+"dans le présent contrat, l'Utilisateur se doit de renoncer à l'accès des "
+"services proposés par le site.\n"
+"\n"
+"        projetphp2018.alwaysdata.net se réserve le droit de modifier "
+"unilatéralement et à tout moment le contenu des présentes conditions "
+"générales d'utilisation."
+msgstr ""
+
+#: view/VueCondiGe.php:18
+msgid "ARTICLE 2 : Mentions légales"
+msgstr ""
+
+#: view/VueCondiGe.php:20
+msgid ""
+"L'édition du site projetphp2018.alwaysdata.net est assurée par la Société "
+"IUT INFO AIX au capital de 0 € dont le siège social est situé à Jouy-en-"
+"Josas dans les Yvelines.\n"
+"\n"
+"        projetphp de la publication est tout le groupe du projet."
+msgstr ""
+
+#: view/VueCondiGe.php:26
+msgid ""
+"projetphp2018 est une société du groupe projetphp2018 au capital de 0€ dont "
+"le siège social est situé à Jouy-en-Josas dans les Yvelines.\n"
+"\n"
+"        L'hébergeur du site projetphp2018.alwaysdata.net est la Société "
+"projetphp2018 au capital de 0€ dont le siège social est situé à Jouy-en-"
+"Josas dans les Yvelines."
+msgstr ""
+
+#: view/VueCondiGe.php:30
+msgid "ARTICLE 3 : Définitions"
+msgstr ""
+
+#: view/VueCondiGe.php:32
+msgid ""
+"La présente clause a pour objet de définir les différents termes essentiels "
+"du contrat :\n"
+"\n"
+"        Utilisateur : ce terme désigne toute personne qui utilise le site ou "
+"l'un des services proposés par le site.\n"
+"\n"
+"        Contenu utilisateur : ce sont les données transmises par "
+"l'Utilisateur au sein du site.\n"
+"\n"
+"        Membre : l'Utilisateur devient membre lorsqu'il est identifié sur le "
+"site.\n"
+"\n"
+"        Identifiant et mot de passe : c'est l'ensemble des informations "
+"nécessaires à l'identification d'un Utilisateur sur le site. L'identifiant "
+"et le mot de passe permettent à l'Utilisateur d'accéder à des services "
+"réservés aux membres du site. Le mot de passe est confidentiel."
+msgstr ""
+
+#: view/VueCondiGe.php:42
+msgid "ARTICLE 4 : accès aux services"
+msgstr ""
+
+#: view/VueCondiGe.php:44
+msgid ""
+"Le site permet à l'Utilisateur un accès gratuit aux services suivants :\n"
+"\n"
+"        Une traduction chaque 10 minutes ;\n"
+"\n"
+"        Une fois membre : des demandes de traductions illimités  ;\n"
+"\n"
+"        Pour les traducteurs : la possibilité de ... Oh et puis c'est "
+"long ;\n"
+"\n"
+"        [publication de commentaires / d'œuvres personnelles] ;\n"
+"\n"
+"        […].\n"
+"\n"
+"        Le site est accessible gratuitement en tout lieu à tout Utilisateur "
+"ayant un accès à Internet. Tous les frais supportés par l'Utilisateur pour "
+"accéder au service (matériel informatique, logiciels, connexion Internet, "
+"etc.) sont à sa charge.\n"
+"\n"
+"        Selon le cas :\n"
+"\n"
+"        L'Utilisateur non membre n'a pas accès aux services réservés aux "
+"membres. Pour cela, il doit s'identifier à l'aide de son identifiant et de "
+"son mot de passe.\n"
+"\n"
+"        Le site met en œuvre tous les moyens mis à sa disposition pour "
+"assurer un accès de qualité à ses services. L'obligation étant de moyens, le "
+"site ne s'engage pas à atteindre ce résultat.\n"
+"\n"
+"        Tout événement dû à un cas de force majeure ayant pour conséquence "
+"un dysfonctionnement du réseau ou du serveur n'engage pas la responsabilité "
+"de \"La traduc' pour les trouduc'\".\n"
+"\n"
+"        L'accès aux services du site peut à tout moment faire l'objet d'une "
+"interruption, d'une suspension, d'une modification sans préavis pour une "
+"maintenance ou pour tout autre cas. L'Utilisateur s'oblige à ne réclamer "
+"aucune indemnisation suite à l'interruption, à la suspension ou à la "
+"modification du présent contrat.\n"
+"\n"
+"        L'Utilisateur a la possibilité de contacter le site par messagerie "
+"électronique à l'adresse nousContacter@laTraducPourLesTrouduc.com]."
+msgstr ""
+
+#: view/VueCondiGe.php:70
+msgid "ARTICLE 5 : Propriété intellectuelle"
+msgstr ""
+
+#: view/VueCondiGe.php:72
+msgid ""
+"Les marques, logos, signes et tout autre contenu du site font l'objet d'une "
+"protection par le Code de la propriété intellectuelle et plus "
+"particulièrement par le droit d'auteur.\n"
+"\n"
+"        L'Utilisateur sollicite l'autorisation préalable du site pour toute "
+"reproduction, publication, copie des différents contenus.\n"
+"\n"
+"        L'Utilisateur s'engage à une utilisation des contenus du site dans "
+"un cadre strictement privé. Une utilisation des contenus à des fins "
+"commerciales est strictement interdite.\n"
+"\n"
+"        Tout contenu mis en ligne par l'Utilisateur est de sa seule "
+"responsabilité. L'Utilisateur s'engage à ne pas mettre en ligne de contenus "
+"pouvant porter atteinte aux intérêts de tierces personnes. Tout recours en "
+"justice engagé par un tiers lésé contre le site sera pris en charge par "
+"l'Utilisateur.\n"
+"\n"
+"        Le contenu de l'Utilisateur peut être à tout moment et pour "
+"n'importe quelle raison supprimé ou modifié par le site. L'Utilisateur ne "
+"reçoit aucune justification et notification préalablement à la suppression "
+"ou à la modification du contenu Utilisateur."
+msgstr ""
+
+#: view/VueCondiGe.php:82
+msgid "ARTICLE 6 : Données personnelles"
+msgstr ""
+
+#: view/VueCondiGe.php:84
+msgid ""
+"Les informations demandées à l'inscription au site sont nécessaires et "
+"obligatoires pour la création du compte de l'Utilisateur. En particulier, "
+"l'adresse électronique pourra être utilisée par le site pour "
+"l'administration, la gestion et l'animation du service.\n"
+"\n"
+"        Le site assure à l'Utilisateur une collecte et un traitement "
+"d'informations personnelles dans le respect de la vie privée conformément à "
+"la loi n°78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et "
+"aux libertés. Le site est déclaré à la CNIL sous le numéro 122333444455555.\n"
+"\n"
+"        En vertu des articles 39 et 40 de la loi en date du 6 janvier 1978, "
+"l'Utilisateur dispose d'un droit d'accès, de rectification, de suppression "
+"et d'opposition de ses données personnelles. L'Utilisateur exerce ce droit "
+"via :\n"
+"\n"
+"        son espace personnel ;\n"
+"\n"
+"        un formulaire de contact ;\n"
+"\n"
+"        par mail à onRépondraJamais@laTraducPourLesTrouduc.com ;\n"
+"\n"
+"        par voie postale au 42 impasse trépasse, Jouy-en-Josas 78350."
+msgstr ""
+
+#: view/VueCondiGe.php:98
+msgid "ARTICLE 7 : Responsabilité et force majeure"
+msgstr ""
+
+#: view/VueCondiGe.php:100
+msgid ""
+"Les sources des informations diffusées sur le site sont réputées fiables. "
+"Toutefois, le site se réserve la faculté d'une non-garantie de la fiabilité "
+"des sources. Les informations données sur le site le sont à titre purement "
+"informatif. Ainsi, l'Utilisateur assume seul l'entière responsabilité de "
+"l'utilisation des informations et contenus du présent site.\n"
+"\n"
+"        L'Utilisateur s'assure de garder son mot de passe secret. Toute "
+"divulgation du mot de passe, quelle que soit sa forme, est interdite.\n"
+"\n"
+"        L'Utilisateur assume les risques liés à l'utilisation de son "
+"identifiant et mot de passe. Le site décline toute responsabilité.\n"
+"\n"
+"        Tout usage du service par l'Utilisateur ayant directement ou "
+"indirectement pour conséquence des dommages doit faire l'objet d'une "
+"indemnisation au profit du site.\n"
+"\n"
+"        Une garantie optimale de la sécurité et de la confidentialité des "
+"données transmises n'est pas assurée par le site. Toutefois, le site "
+"s'engage à mettre en œuvre tous les moyens nécessaires afin de garantir au "
+"mieux la sécurité et la confidentialité des données.\n"
+"\n"
+"        La responsabilité du site ne peut être engagée en cas de force "
+"majeure ou du fait imprévisible et insurmontable d'un tiers. "
+msgstr ""
+
+#: view/VueCondiGe.php:112
+msgid "ARTICLE 8 : Liens hypertextes"
+msgstr ""
+
+#: view/VueCondiGe.php:114
+msgid ""
+"De nombreux liens hypertextes sortants sont présents sur le site, cependant "
+"les pages web où mènent ces liens n'engagent en rien la responsabilité de "
+"[Nom du site] qui n'a pas le contrôle de ces liens.\n"
+"\n"
+"        L'Utilisateur s'interdit donc à engager la responsabilité du site "
+"concernant le contenu et les ressources relatives à ces liens hypertextes "
+"sortants."
+msgstr ""
+
+#: view/VueCondiGe.php:118
+msgid "ARTICLE 9 : Évolution du contrat"
+msgstr ""
+
+#: view/VueCondiGe.php:120
+msgid ""
+"Le site se réserve à tout moment le droit de modifier les clauses stipulées "
+"dans le présent contrat."
+msgstr ""
+
+#: view/VueCondiGe.php:122
+msgid "ARTICLE 10 : Durée"
+msgstr ""
+
+#: view/VueCondiGe.php:124
+msgid ""
+"La durée du présent contrat est indéterminée. Le contrat produit ses effets "
+"à l'égard de l'Utilisateur à compter de l'utilisation du service."
+msgstr ""
+
+#: view/VueCondiGe.php:126
+msgid "ARTICLE 11 : Droit applicable et juridiction compétente"
+msgstr ""
+
+#: view/VueCondiGe.php:128
+msgid ""
+"La législation française s'applique au présent contrat. En cas d'absence de "
+"résolution amiable d'un litige né entre les parties, seuls les tribunaux du "
+"ressort de la Cour d'appel de la ville de Jouy-en-Josas sont compétents.\n"
+"\n"
+"        Éventuellement"
+msgstr ""
+
+#: view/VueCondiGe.php:132
+msgid "ARTICLE 12 : Publication par l'Utilisateur"
+msgstr ""
+
+#: view/VueCondiGe.php:134
+msgid ""
+"Le site permet aux membres de publier des traductions personnelles.\n"
+"\n"
+"        Dans ses publications, le membre s'engage à respecter les règles de "
+"la Netiquette et les règles de droit en vigueur.\n"
+"\n"
+"        Le site exerce une modération [a priori / a posteriori / a forciori "
+"agent de la paix avant tout] sur les publications et se réserve le droit de "
+"refuser leur mise en ligne, sans avoir à s'en justifier auprès du membre.\n"
+"\n"
+"        Le membre reste titulaire de l'intégralité de ses droits de "
+"propriété intellectuelle. Mais en publiant une publication sur le site, il "
+"cède à la société éditrice le droit non exclusif et gratuit de représenter, "
+"reproduire, adapter, modifier, diffuser et distribuer sa publication, "
+"directement ou par un tiers autorisé, dans le monde entier, sur tout support "
+"(numérique ou physique), pour la durée de la propriété intellectuelle. Le "
+"Membre cède notamment le droit d'utiliser sa publication sur internet et sur "
+"les réseaux de téléphonie mobile.\n"
+"\n"
+"        La société éditrice s'engage à faire figurer le nom du membre à "
+"proximité de chaque utilisation de sa publication."
+msgstr ""
+
+#: view/VueDemandeMdpOublier.php:13
+msgid "Adresse email inconnue"
+msgstr ""
+
+#: view/VueDemandeMdpOublier.php:15 view/Connexion/VueFormulaire.php:25
+msgid "Mot de passe oublié ?"
+msgstr ""
+
+#: view/VueDemandeMdpOublier.php:17
+msgid "Adresse mail : "
+msgstr ""
+
+#: view/VueFinDeco.php:2
+msgid "Vous êtes déconnecté"
+msgstr ""
+
+#: view/VueFinInscription.php:4
+msgid "un email a été envoyé"
+msgstr ""
+
+#: view/VueInscription.php:4 view/VuePlacerTradFin.php:3
+msgid "le mot de passe et sa vérification sont différents"
+msgstr ""
+
+#: view/VueInscription.php:7
+msgid "remplissez les champs"
+msgstr ""
+
+#: view/VueInscription.php:10
+msgid "données déjà enregistrées"
+msgstr ""
+
+#: view/VueInscription.php:13
+msgid ""
+"votre inscription est reussi nous vous avons envoyer un email avec vos "
+"identifiant"
+msgstr ""
+
+#: view/VueInscription.php:19
+msgid "Remplissez le formulaire"
+msgstr ""
+
+#: view/VueInscription.php:21 view/Connexion/VueFormulaire.php:16
+msgid "Identifiant :"
+msgstr ""
+
+#: view/VueInscription.php:24
+msgid "Adresse mail :"
+msgstr ""
+
+#: view/VueInscription.php:27 view/Connexion/VueFormulaire.php:19
+msgid "Mot de passe :"
+msgstr ""
+
+#: view/VueInscription.php:30
+msgid "Vérification de mot de passe :"
+msgstr ""
+
+#: view/VueInscription.php:35
+msgid "J'accepte les conditions générales"
+msgstr ""
+
+#: view/VueMenuBarre.php:39
+msgid "Admin"
+msgstr ""
+
+#: view/VueMenuBarre.php:40 view/VueMenuBarre.php:46
+msgid "Déconnexion"
+msgstr ""
+
+#: view/VueMonCompte.php:4
+msgid "connecter vous"
+msgstr ""
+
+#: view/VueMonCompte.php:10
+msgid "bla"
+msgstr ""
+
+#: view/VueMonCompte.php:14
+msgid "Nom de compte : "
+msgstr ""
+
+#: view/VueMonCompte.php:15
+msgid "Statue du compte : "
+msgstr ""
+
+#: view/VueMonCompte.php:16
+msgid "Mail du compte : "
+msgstr ""
+
+#: view/VueMonCompte.php:22 model/ModelInscription.php:44
+msgid "Mot de passe : "
+msgstr ""
+
+#: view/VueRechercheTradFin.php:6
+#: view/RechercheTrad/VueRechercheTradEchec.php:6
+msgid "faire une demande de traduction ?"
+msgstr ""
+
+#: view/VueRechercheTradFormulaire.php:7
+msgid "Recherche"
+msgstr ""
+
+#: view/VueRechercheTradFormulaire.php:13
+msgid "que desirait vous traduire"
+msgstr ""
+
+#: view/VueRechercheTradFormulaire.php:15
+msgid "texte a traduire :"
+msgstr ""
+
+#: view/VueTraduction.php:3 view/Connexion/VueFormulaire.php:14
+msgid "Veuillez vous connecter"
+msgstr ""
+
+#: view/VueTraduction.php:4
+msgid "Se connecter"
+msgstr ""
+
+#: view/VueTraduction.php:7
+msgid "Que voulez-vous faire"
+msgstr ""
+
+#: view/VueTraduction.php:9 view/VueTraduction.php:27
+msgid "Recherche de traduction"
+msgstr ""
+
+#: view/VueTraduction.php:11 view/VueTraduction.php:29
+msgid "Placer traduction"
+msgstr ""
+
+#: view/VueTraduction.php:12 view/VueTraduction.php:20
+#: view/VueTraduction.php:30
+msgid "Visualisation de mes demandes de traductions"
+msgstr ""
+
+#: view/VueTraduction.php:13 view/VueTraduction.php:31
+msgid "Gérer les traductions"
+msgstr ""
+
+#: view/VueTraduction.php:18 view/VueTraduction.php:24
+msgid "recherche de traduction"
+msgstr ""
+
+#: view/VueTraduction.php:19
+msgid "demande de traduction"
+msgstr ""
+
+#: view/VueTraduction.php:32
+msgid "Ajouter Langue"
+msgstr ""
+
+#: view/VueUpdateMail.php:4
+msgid "Vos coordonnée "
+msgstr ""
+
+#: view/VueUpdate.php:5
+msgid "Le statut de l'utilisateur "
+msgstr ""
+
+#: view/VueUpdate.php:5
+msgid " a bien été changer !"
+msgstr ""
+
+#: view/Connexion/VueAfficherErreur.php:3
+msgid "Identifiant ou mot de passe incorrect"
+msgstr ""
+
+#: view/Connexion/VueAfficherErreur.php:4
+msgid "Recommencer ?"
+msgstr ""
+
+#: view/Connexion/VueFormulaire.php:3
+msgid "un nouveau mot de passe vous a été envoier par mail"
+msgstr ""
+
+#: view/Connexion/VueFormulaire.php:23
+msgid "Pas encore inscrit ?"
+msgstr ""
+
+#: view/DemandeTrad/VueDemandeReussite.php:4
+msgid "votre demande a bien été traiter"
+msgstr ""
+
+#: view/DemandeTrad/VueDemandeReussite.php:6
+msgid "nous vous previendront quand la traduction sera faite"
+msgstr ""
+
+#: view/DemandeTrad/VueFormulaireDemande.php:12
+msgid "écrivais le texte a envoyer "
+msgstr ""
+
+#: view/DemandeTrad/VueFormulaireDemande.php:14
+msgid "demande de traduction :"
+msgstr ""
+
+#: model/ModelAdministration.php:21 model/ModelAjouterLangue.php:25
+#: model/ModelConnexion.php:15 model/ModelDemandeTrad.php:15
+#: model/ModelGererDemandeTrad.php:26 model/ModelInscription.php:23
+#: model/ModelMonCompte.php:21 model/ModelMotDePasseOublie.php:44
+#: model/ModelPlacertradFin.php:21 model/ModelPlacerTrad.php:22
+#: model/ModelRechercheTrad.php:14 model/ModelRechercheTraduction.php:14
+#: model/ModelUpdateCompte.php:16 model/ModelUpdateMDP.php:16
+#: model/ModelUpdate.php:16
+msgid "Erreur dans requête"
+msgstr ""
+
+#: model/ModelAdministration.php:23 model/ModelAjouterLangue.php:27
+#: model/ModelConnexion.php:17 model/ModelDemandeTrad.php:17
+#: model/ModelGererDemandeTrad.php:28 model/ModelInscription.php:25
+#: model/ModelMonCompte.php:23 model/ModelMotDePasseOublie.php:46
+#: model/ModelPlacertradFin.php:23 model/ModelPlacerTrad.php:24
+#: model/ModelRechercheTrad.php:16 model/ModelRechercheTraduction.php:16
+#: model/ModelUpdateCompte.php:18 model/ModelUpdateMDP.php:18
+#: model/ModelUpdate.php:18
+msgid "Erreur : "
+msgstr ""
+
+#: model/ModelAdministration.php:25 model/ModelAjouterLangue.php:29
+#: model/ModelConnexion.php:19 model/ModelDemandeTrad.php:19
+#: model/ModelGererDemandeTrad.php:30 model/ModelInscription.php:27
+#: model/ModelMonCompte.php:25 model/ModelMotDePasseOublie.php:48
+#: model/ModelPlacertradFin.php:25 model/ModelPlacerTrad.php:26
+#: model/ModelRechercheTrad.php:18 model/ModelRechercheTraduction.php:18
+#: model/ModelUpdateCompte.php:20 model/ModelUpdateMDP.php:20
+#: model/ModelUpdate.php:20
+msgid "Requête : "
+msgstr ""
+
+#: model/ModelInscription.php:42
+msgid "Voici vos identifiants d'inscription :"
+msgstr ""
+
+#: model/ModelInscription.php:43
+msgid "Email : "
+msgstr ""
+
+#: model/ModelInscription.php:45 model/ModelMotDePasseOublie.php:65
+msgid "inscription"
+msgstr ""
+
+#: model/ModelMotDePasseOublie.php:63
+msgid "Voici votre nouveau mot de passe:"
+msgstr ""
+
+#: model/ModelMotDePasseOublie.php:64
+msgid "Nouveau mot de passe : "
+msgstr ""
+
+#: controlleur/placerTradFin2.php:7
+msgid "placement"
+msgstr ""
+
+#: controlleur/placerTradFin.php:14
+msgid "Choisir traduction"
+msgstr ""
+
+#: controlleur/placerTrad.php:8
+msgid "Choisir langue"
+msgstr ""
+
+#: view/VuePlacerTradFin2.php:5 view/VuePlacerTradFin.php:18
+msgid "Revenir a la traduction ?"
+msgstr ""
+
+#: view/VuePlacerTradFin.php:7
+msgid "Saisir le mot que vous voulez traduire :"
+msgstr ""
+
+#: view/VuePlacerTradFin.php:10
+msgid "Saisir le mot traduit :"
+msgstr ""
+
+#: view/VuePlacerTradFin.php:13
+msgid "Resaisir le mot traduit  : "
+msgstr ""
+
+#: view/VuePlacerTrad.php:20
+msgid "Rechercher une traduction"
+msgstr ""
+
+#: view/VuePlacerTrad.php:26
+msgid "Placer une traduction dans une langue"
+msgstr ""
